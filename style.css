@@ -320,7 +320,7 @@ section {
     justify-content: space-around;
     gap: 3.5rem;
     margin-top: 2rem;
-    width: 1450px; /* Especifica un ancho fijo, puedes ajustarlo según tus necesidades */
+    width: 1400px; /* Especifica un ancho fijo, puedes ajustarlo según tus necesidades */
     margin: 0 auto; /* Centra el contenedor horizontalmente */
 }
 
