@@ -261,7 +261,6 @@ section {
 
 .text_container {
     margin: 2rem auto;
-    justify-content: justify;
     
 }
 
@@ -269,6 +268,7 @@ section {
     color: #555;
     line-height: 1.6;
     text-align: left;
+    text-align: justify;
 }
 
 /* PROJECTS  */
