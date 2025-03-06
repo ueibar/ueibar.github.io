@@ -261,6 +261,8 @@ section {
 
 .text_container {
     margin: 2rem auto;
+    justify-content: justify;
+    
 }
 
 .text_container p {
